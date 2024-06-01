@@ -37,13 +37,13 @@ struct ContentView: View {
             Text("Hello, world!")
         }
         .padding()
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+//        VStack {
+//            Image(systemName: "globe")
+//                .imageScale(.large)
+//                .foregroundStyle(.tint)
+//            Text("Hello, world!")
+//        }
+//        .padding()
 //        .padding()
         // ndd new code ....
     }
